@@ -1,0 +1,20 @@
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+} */
+#fon {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    border: 3px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+p.first { margin: 20px 15px 5px 10px; }
+
+p.second { margin: 5px 10px; }
